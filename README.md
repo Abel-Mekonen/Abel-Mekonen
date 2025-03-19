@@ -6,10 +6,7 @@ Software Engineer
 
 I am Full Stack developer with 3+ years of experience in Android, Flutter, and Node.js. I excel at building robust applications with exceptional user experiences and scalable backend systems.
 
-* 🌍  I'm based in Ethiopia
-* 🖥️  See my portfolio at [Portfolio](http://portfolio-abel-mekonen.vercel.app/)
-* ✉️  You can contact me at [abelmekonen559@gmail.com](mailto:abelmekonen559@gmail.com)
-* 🧠  I'm learning Jetpack Compose, Fast API
+
 
 ### Skills
 
